@@ -1,0 +1,21 @@
+/* Add this to your existing CSS file or create a new one if necessary */
+
+.color-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.color-card {
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+}
+
+/* Adjust other styling as needed */
